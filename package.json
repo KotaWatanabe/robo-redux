@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-redux": "^7.2.0",
     "react-scripts": "^3.2.0",
+    "redux": "^4.0.5",
     "tachyons": "^4.11.1"
   },
   "scripts": {
@@ -25,5 +27,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Tutorial for udemy course - React To run the project:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneagoie/robofriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneagoie/robofriends/issues"
+  },
+  "homepage": "https://github.com/aneagoie/robofriends#readme"
 }
